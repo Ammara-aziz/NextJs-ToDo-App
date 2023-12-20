@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .container{
+  background:bg-gradient{to right bottom, bg-[#e1b382], bg-[#c89666]}
+}
+.custom-image{
+  background-image: url("../../public/bg-todo.jpg");
+} */
